@@ -1,3 +1,4 @@
 -Cheddar
 -Mozzarella
 -American
+-Swiss
